@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "NSMB";
+    src: url("ninnsmb.ttf");
+}
+@font-face {
+    font-family: "DIN";
+    src: url("din.ttf");
+}
+
+body {
+    font-family: "DIN";
+}
+
+button,.button {
+    font-family: "DIN";
+    font-weight: 900;
+}
