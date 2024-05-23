@@ -1,0 +1,86 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    color: green;
+}
+#app {
+    height: 100vh;
+    overflow: hidden;
+    position: relative;
+    background-image: url("Petal_isles.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    /* backdrop-filter: blur(10px); */
+}
+.menu{
+    /* margin: 30%; */
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+    /* background-color: green; */
+    overflow: hidden;
+    position: relative;
+    z-index: 20;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 64px;
+    border-bottom-left-radius: 64px;
+    border-bottom-right-radius: 0px;
+    border: 8px solid #212620;
+    /* min-width: 400px; */
+    width: 500px;
+    height: 250px;
+}
+.menu-content{
+    position: relative;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.menu-content > * {
+    width: 100%;
+    height: fit-content;
+}
+.menu-bg {
+    /* background-image: url("https://assets.codepen.io/1468070/Star+Pattern+3.svg"); */
+    background-image: url("menu_bg_new.svg");
+    background-size: 30%;  
+    /* background-color: red; */
+    position: absolute;
+    left: 50%;
+    top: 0px;
+    translate: -50% -50%;
+    rotate: -5deg;
+    height: 100%;
+    width: 100%;
+    min-width: 1000px;
+    min-height: 1000px;
+    /* opacity: 1.5; */
+    z-index: 0;
+    filter: blur(0rem) brightness(0.95);
+    animation: pan 180s linear infinite;
+    will-change: background-position;
+}
+.menu-blur{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    height: 100%;
+    width: 100%;
+    backdrop-filter: contrast(110%) sepia() hue-rotate(120deg) saturate(300%) brightness(80%) blur(0.3rem);
+    z-index: 19;
+}
+.menu-actions{
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+.menu-actions-center {
+    display: flex;
+    flex-direction: row;
+}
+.menu-actions-center > * {
+    margin-left: 10px;
+    margin-right: 10px;
+}

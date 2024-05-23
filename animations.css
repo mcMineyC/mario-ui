@@ -1,0 +1,39 @@
+
+@keyframes move-background {
+    0% {
+      background-position: 0% 0%;
+    }
+    
+    100% {
+      background-position: -100% 0%;
+    }
+  }
+  
+  @keyframes bounce {
+    0%, 20%, 100% {
+      translate: 0% 0%;
+    }
+    
+    10% {
+      translate: 0% -12%;
+    }
+  }
+  
+  @keyframes blink {
+    0%, 3%, 100% {
+      scale: 1 1;
+    }
+    
+    1.5% {
+      scale: 1 0;
+    }
+  }
+
+  @keyframes pan {
+    0% {
+      background-position: 0% 0%;
+    }
+    100% {
+      background-position: 100% 0%;
+    }
+  }

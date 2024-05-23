@@ -1,126 +1,126 @@
 <svg width="1024" height="512" viewBox="0 0 1024 512" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_1_2)">
-<rect width="1024" height="512" fill="transparent"/>
-<rect width="512" height="512" transform="matrix(-1 0 0 1 512 256)" fill="#212622"/>
-<rect width="512" height="512" transform="matrix(-1 0 0 1 1024 -256)" fill="#212622"/>
-<path d="M384 128H448V192H384V128Z" fill="#212622"/>
-<path d="M448 192H512V256H448V192Z" fill="#212622"/>
-<path d="M384 0H448V64H384V0Z" fill="#212622"/>
-<path d="M448 64H512V128H448V64Z" fill="#212622"/>
-<path d="M256 0H320V64H256V0Z" fill="#212622"/>
-<path d="M320 64H384V128H320V64Z" fill="#212622"/>
-<path d="M256 128H320V192H256V128Z" fill="#212622"/>
-<path d="M320 192H384V256H320V192Z" fill="#212622"/>
-<path d="M320 320H288V352H320V320Z" fill="transparent"/>
-<path d="M288 352H256V384H288V352Z" fill="transparent"/>
-<path d="M320 256H288V288H320V256Z" fill="transparent"/>
-<path d="M288 288H256V320H288V288Z" fill="transparent"/>
-<path d="M384 256H352V288H384V256Z" fill="transparent"/>
-<path d="M352 288H320V320H352V288Z" fill="transparent"/>
-<path d="M384 320H352V352H384V320Z" fill="transparent"/>
-<path d="M352 352H320V384H352V352Z" fill="transparent"/>
-<rect width="64" height="64" transform="matrix(-1 0 0 1 768 128)" fill="transparent"/>
-<rect width="64" height="64" transform="matrix(-1 0 0 1 704 192)" fill="transparent"/>
-<rect width="16" height="16" transform="matrix(-1 0 0 1 640 0)" fill="transparent"/>
-<rect width="16" height="16" transform="matrix(-1 0 0 1 624 16)" fill="transparent"/>
-<rect width="16" height="16" transform="matrix(-1 0 0 1 608 0)" fill="transparent"/>
-<rect width="16" height="16" transform="matrix(-1 0 0 1 592 16)" fill="transparent"/>
-<rect width="16" height="16" transform="matrix(-1 0 0 1 640 32)" fill="transparent"/>
-<rect width="16" height="16" transform="matrix(-1 0 0 1 624 48)" fill="transparent"/>
-<rect width="16" height="16" transform="matrix(-1 0 0 1 608 32)" fill="transparent"/>
-<rect width="16" height="16" transform="matrix(-1 0 0 1 592 48)" fill="transparent"/>
-<rect width="16" height="16" transform="matrix(-1 0 0 1 640 64)" fill="transparent"/>
-<rect width="16" height="16" transform="matrix(-1 0 0 1 624 80)" fill="transparent"/>
-<rect width="16" height="16" transform="matrix(-1 0 0 1 608 64)" fill="transparent"/>
-<rect width="16" height="16" transform="matrix(-1 0 0 1 592 80)" fill="transparent"/>
-<rect width="16" height="16" transform="matrix(-1 0 0 1 640 96)" fill="transparent"/>
-<rect width="16" height="16" transform="matrix(-1 0 0 1 624 112)" fill="transparent"/>
-<rect width="16" height="16" transform="matrix(-1 0 0 1 608 96)" fill="transparent"/>
-<rect width="16" height="16" transform="matrix(-1 0 0 1 592 112)" fill="transparent"/>
-<rect width="16" height="16" transform="matrix(-1 0 0 1 576 0)" fill="transparent"/>
-<rect width="16" height="16" transform="matrix(-1 0 0 1 560 16)" fill="transparent"/>
-<rect width="16" height="16" transform="matrix(-1 0 0 1 544 0)" fill="transparent"/>
-<rect width="16" height="16" transform="matrix(-1 0 0 1 528 16)" fill="transparent"/>
-<rect width="16" height="16" transform="matrix(-1 0 0 1 576 32)" fill="transparent"/>
-<rect width="16" height="16" transform="matrix(-1 0 0 1 560 48)" fill="transparent"/>
-<rect width="16" height="16" transform="matrix(-1 0 0 1 544 32)" fill="transparent"/>
-<rect width="16" height="16" transform="matrix(-1 0 0 1 528 48)" fill="transparent"/>
-<rect width="16" height="16" transform="matrix(-1 0 0 1 576 64)" fill="transparent"/>
-<rect width="16" height="16" transform="matrix(-1 0 0 1 560 80)" fill="transparent"/>
-<rect width="16" height="16" transform="matrix(-1 0 0 1 544 64)" fill="transparent"/>
-<rect width="16" height="16" transform="matrix(-1 0 0 1 528 80)" fill="transparent"/>
-<rect width="16" height="16" transform="matrix(-1 0 0 1 576 96)" fill="transparent"/>
-<rect width="16" height="16" transform="matrix(-1 0 0 1 560 112)" fill="transparent"/>
-<rect width="16" height="16" transform="matrix(-1 0 0 1 544 96)" fill="transparent"/>
-<rect width="16" height="16" transform="matrix(-1 0 0 1 528 112)" fill="transparent"/>
-<path d="M448 384H432V400H448V384Z" fill="transparent"/>
-<path d="M432 400H416V416H432V400Z" fill="transparent"/>
-<path d="M416 384H400V400H416V384Z" fill="transparent"/>
-<path d="M400 400H384V416H400V400Z" fill="transparent"/>
-<path d="M448 416H432V432H448V416Z" fill="transparent"/>
-<path d="M432 432H416V448H432V432Z" fill="transparent"/>
-<path d="M416 416H400V432H416V416Z" fill="transparent"/>
-<path d="M400 432H384V448H400V432Z" fill="transparent"/>
-<path d="M448 448H432V464H448V448Z" fill="transparent"/>
-<path d="M432 464H416V480H432V464Z" fill="transparent"/>
-<path d="M416 448H400V464H416V448Z" fill="transparent"/>
-<path d="M400 464H384V480H400V464Z" fill="transparent"/>
-<path d="M448 480H432V496H448V480Z" fill="transparent"/>
-<path d="M432 496H416V512H432V496Z" fill="transparent"/>
-<path d="M416 480H400V496H416V480Z" fill="transparent"/>
-<path d="M400 496H384V512H400V496Z" fill="transparent"/>
-<path d="M512 384H496V400H512V384Z" fill="transparent"/>
-<path d="M496 400H480V416H496V400Z" fill="transparent"/>
-<path d="M480 384H464V400H480V384Z" fill="transparent"/>
-<path d="M464 400H448V416H464V400Z" fill="transparent"/>
-<path d="M512 416H496V432H512V416Z" fill="transparent"/>
-<path d="M496 432H480V448H496V432Z" fill="transparent"/>
-<path d="M480 416H464V432H480V416Z" fill="transparent"/>
-<path d="M464 432H448V448H464V432Z" fill="transparent"/>
-<path d="M512 448H496V464H512V448Z" fill="transparent"/>
-<path d="M496 464H480V480H496V464Z" fill="transparent"/>
-<path d="M480 448H464V464H480V448Z" fill="transparent"/>
-<path d="M464 464H448V480H464V464Z" fill="transparent"/>
-<path d="M512 480H496V496H512V480Z" fill="transparent"/>
-<path d="M496 496H480V512H496V496Z" fill="transparent"/>
-<path d="M480 480H464V496H480V480Z" fill="transparent"/>
-<path d="M464 496H448V512H464V496Z" fill="transparent"/>
-<path d="M640 256H672V288H640V256Z" fill="#212622"/>
-<path d="M672 288H704V320H672V288Z" fill="#212622"/>
-<path d="M704 256H736V288H704V256Z" fill="#212622"/>
-<path d="M736 288H768V320H736V288Z" fill="#212622"/>
-<path d="M640 320H672V352H640V320Z" fill="#212622"/>
-<path d="M672 352H704V384H672V352Z" fill="#212622"/>
-<path d="M704 320H736V352H704V320Z" fill="#212622"/>
-<path d="M736 352H768V384H736V352Z" fill="#212622"/>
-<path d="M640 384H672V416H640V384Z" fill="#212622"/>
-<path d="M672 416H704V448H672V416Z" fill="#212622"/>
-<path d="M704 384H736V416H704V384Z" fill="#212622"/>
-<path d="M736 416H768V448H736V416Z" fill="#212622"/>
-<path d="M640 448H672V480H640V448Z" fill="#212622"/>
-<path d="M672 480H704V512H672V480Z" fill="#212622"/>
-<path d="M704 448H736V480H704V448Z" fill="#212622"/>
-<path d="M736 480H768V512H736V480Z" fill="#212622"/>
-<path d="M512 256H544V288H512V256Z" fill="#212622"/>
-<path d="M544 288H576V320H544V288Z" fill="#212622"/>
-<path d="M576 256H608V288H576V256Z" fill="#212622"/>
-<path d="M608 288H640V320H608V288Z" fill="#212622"/>
-<path d="M512 320H544V352H512V320Z" fill="#212622"/>
-<path d="M544 352H576V384H544V352Z" fill="#212622"/>
-<path d="M576 320H608V352H576V320Z" fill="#212622"/>
-<path d="M608 352H640V384H608V352Z" fill="#212622"/>
-<path d="M512 384H544V416H512V384Z" fill="#212622"/>
-<path d="M544 416H576V448H544V416Z" fill="#212622"/>
-<path d="M576 384H608V416H576V384Z" fill="#212622"/>
-<path d="M608 416H640V448H608V416Z" fill="#212622"/>
-<path d="M512 448H544V480H512V448Z" fill="#212622"/>
-<path d="M544 480H576V512H544V480Z" fill="#212622"/>
-<path d="M576 448H608V480H576V448Z" fill="#212622"/>
-<path d="M608 480H640V512H608V480Z" fill="#212622"/>
+<rect width="1024" height="512" fill="white"/>
+<rect width="512" height="512" transform="matrix(-1 0 0 1 512 256)" fill="black"/>
+<rect width="512" height="512" transform="matrix(-1 0 0 1 1024 -256)" fill="black"/>
+<path d="M384 128H448V192H384V128Z" fill="black"/>
+<path d="M448 192H512V256H448V192Z" fill="black"/>
+<path d="M384 0H448V64H384V0Z" fill="black"/>
+<path d="M448 64H512V128H448V64Z" fill="black"/>
+<path d="M256 0H320V64H256V0Z" fill="black"/>
+<path d="M320 64H384V128H320V64Z" fill="black"/>
+<path d="M256 128H320V192H256V128Z" fill="black"/>
+<path d="M320 192H384V256H320V192Z" fill="black"/>
+<path d="M320 320H288V352H320V320Z" fill="white"/>
+<path d="M288 352H256V384H288V352Z" fill="white"/>
+<path d="M320 256H288V288H320V256Z" fill="white"/>
+<path d="M288 288H256V320H288V288Z" fill="white"/>
+<path d="M384 256H352V288H384V256Z" fill="white"/>
+<path d="M352 288H320V320H352V288Z" fill="white"/>
+<path d="M384 320H352V352H384V320Z" fill="white"/>
+<path d="M352 352H320V384H352V352Z" fill="white"/>
+<rect width="64" height="64" transform="matrix(-1 0 0 1 768 128)" fill="white"/>
+<rect width="64" height="64" transform="matrix(-1 0 0 1 704 192)" fill="white"/>
+<rect width="16" height="16" transform="matrix(-1 0 0 1 640 0)" fill="white"/>
+<rect width="16" height="16" transform="matrix(-1 0 0 1 624 16)" fill="white"/>
+<rect width="16" height="16" transform="matrix(-1 0 0 1 608 0)" fill="white"/>
+<rect width="16" height="16" transform="matrix(-1 0 0 1 592 16)" fill="white"/>
+<rect width="16" height="16" transform="matrix(-1 0 0 1 640 32)" fill="white"/>
+<rect width="16" height="16" transform="matrix(-1 0 0 1 624 48)" fill="white"/>
+<rect width="16" height="16" transform="matrix(-1 0 0 1 608 32)" fill="white"/>
+<rect width="16" height="16" transform="matrix(-1 0 0 1 592 48)" fill="white"/>
+<rect width="16" height="16" transform="matrix(-1 0 0 1 640 64)" fill="white"/>
+<rect width="16" height="16" transform="matrix(-1 0 0 1 624 80)" fill="white"/>
+<rect width="16" height="16" transform="matrix(-1 0 0 1 608 64)" fill="white"/>
+<rect width="16" height="16" transform="matrix(-1 0 0 1 592 80)" fill="white"/>
+<rect width="16" height="16" transform="matrix(-1 0 0 1 640 96)" fill="white"/>
+<rect width="16" height="16" transform="matrix(-1 0 0 1 624 112)" fill="white"/>
+<rect width="16" height="16" transform="matrix(-1 0 0 1 608 96)" fill="white"/>
+<rect width="16" height="16" transform="matrix(-1 0 0 1 592 112)" fill="white"/>
+<rect width="16" height="16" transform="matrix(-1 0 0 1 576 0)" fill="white"/>
+<rect width="16" height="16" transform="matrix(-1 0 0 1 560 16)" fill="white"/>
+<rect width="16" height="16" transform="matrix(-1 0 0 1 544 0)" fill="white"/>
+<rect width="16" height="16" transform="matrix(-1 0 0 1 528 16)" fill="white"/>
+<rect width="16" height="16" transform="matrix(-1 0 0 1 576 32)" fill="white"/>
+<rect width="16" height="16" transform="matrix(-1 0 0 1 560 48)" fill="white"/>
+<rect width="16" height="16" transform="matrix(-1 0 0 1 544 32)" fill="white"/>
+<rect width="16" height="16" transform="matrix(-1 0 0 1 528 48)" fill="white"/>
+<rect width="16" height="16" transform="matrix(-1 0 0 1 576 64)" fill="white"/>
+<rect width="16" height="16" transform="matrix(-1 0 0 1 560 80)" fill="white"/>
+<rect width="16" height="16" transform="matrix(-1 0 0 1 544 64)" fill="white"/>
+<rect width="16" height="16" transform="matrix(-1 0 0 1 528 80)" fill="white"/>
+<rect width="16" height="16" transform="matrix(-1 0 0 1 576 96)" fill="white"/>
+<rect width="16" height="16" transform="matrix(-1 0 0 1 560 112)" fill="white"/>
+<rect width="16" height="16" transform="matrix(-1 0 0 1 544 96)" fill="white"/>
+<rect width="16" height="16" transform="matrix(-1 0 0 1 528 112)" fill="white"/>
+<path d="M448 384H432V400H448V384Z" fill="white"/>
+<path d="M432 400H416V416H432V400Z" fill="white"/>
+<path d="M416 384H400V400H416V384Z" fill="white"/>
+<path d="M400 400H384V416H400V400Z" fill="white"/>
+<path d="M448 416H432V432H448V416Z" fill="white"/>
+<path d="M432 432H416V448H432V432Z" fill="white"/>
+<path d="M416 416H400V432H416V416Z" fill="white"/>
+<path d="M400 432H384V448H400V432Z" fill="white"/>
+<path d="M448 448H432V464H448V448Z" fill="white"/>
+<path d="M432 464H416V480H432V464Z" fill="white"/>
+<path d="M416 448H400V464H416V448Z" fill="white"/>
+<path d="M400 464H384V480H400V464Z" fill="white"/>
+<path d="M448 480H432V496H448V480Z" fill="white"/>
+<path d="M432 496H416V512H432V496Z" fill="white"/>
+<path d="M416 480H400V496H416V480Z" fill="white"/>
+<path d="M400 496H384V512H400V496Z" fill="white"/>
+<path d="M512 384H496V400H512V384Z" fill="white"/>
+<path d="M496 400H480V416H496V400Z" fill="white"/>
+<path d="M480 384H464V400H480V384Z" fill="white"/>
+<path d="M464 400H448V416H464V400Z" fill="white"/>
+<path d="M512 416H496V432H512V416Z" fill="white"/>
+<path d="M496 432H480V448H496V432Z" fill="white"/>
+<path d="M480 416H464V432H480V416Z" fill="white"/>
+<path d="M464 432H448V448H464V432Z" fill="white"/>
+<path d="M512 448H496V464H512V448Z" fill="white"/>
+<path d="M496 464H480V480H496V464Z" fill="white"/>
+<path d="M480 448H464V464H480V448Z" fill="white"/>
+<path d="M464 464H448V480H464V464Z" fill="white"/>
+<path d="M512 480H496V496H512V480Z" fill="white"/>
+<path d="M496 496H480V512H496V496Z" fill="white"/>
+<path d="M480 480H464V496H480V480Z" fill="white"/>
+<path d="M464 496H448V512H464V496Z" fill="white"/>
+<path d="M640 256H672V288H640V256Z" fill="black"/>
+<path d="M672 288H704V320H672V288Z" fill="black"/>
+<path d="M704 256H736V288H704V256Z" fill="black"/>
+<path d="M736 288H768V320H736V288Z" fill="black"/>
+<path d="M640 320H672V352H640V320Z" fill="black"/>
+<path d="M672 352H704V384H672V352Z" fill="black"/>
+<path d="M704 320H736V352H704V320Z" fill="black"/>
+<path d="M736 352H768V384H736V352Z" fill="black"/>
+<path d="M640 384H672V416H640V384Z" fill="black"/>
+<path d="M672 416H704V448H672V416Z" fill="black"/>
+<path d="M704 384H736V416H704V384Z" fill="black"/>
+<path d="M736 416H768V448H736V416Z" fill="black"/>
+<path d="M640 448H672V480H640V448Z" fill="black"/>
+<path d="M672 480H704V512H672V480Z" fill="black"/>
+<path d="M704 448H736V480H704V448Z" fill="black"/>
+<path d="M736 480H768V512H736V480Z" fill="black"/>
+<path d="M512 256H544V288H512V256Z" fill="black"/>
+<path d="M544 288H576V320H544V288Z" fill="black"/>
+<path d="M576 256H608V288H576V256Z" fill="black"/>
+<path d="M608 288H640V320H608V288Z" fill="black"/>
+<path d="M512 320H544V352H512V320Z" fill="black"/>
+<path d="M544 352H576V384H544V352Z" fill="black"/>
+<path d="M576 320H608V352H576V320Z" fill="black"/>
+<path d="M608 352H640V384H608V352Z" fill="black"/>
+<path d="M512 384H544V416H512V384Z" fill="black"/>
+<path d="M544 416H576V448H544V416Z" fill="black"/>
+<path d="M576 384H608V416H576V384Z" fill="black"/>
+<path d="M608 416H640V448H608V416Z" fill="black"/>
+<path d="M512 448H544V480H512V448Z" fill="black"/>
+<path d="M544 480H576V512H544V480Z" fill="black"/>
+<path d="M576 448H608V480H576V448Z" fill="black"/>
+<path d="M608 480H640V512H608V480Z" fill="black"/>
 </g>
 <defs>
 <clipPath id="clip0_1_2">
-<rect width="1024" height="512" fill="transparent"/>
+<rect width="1024" height="512" fill="white"/>
 </clipPath>
 </defs>
 </svg>
